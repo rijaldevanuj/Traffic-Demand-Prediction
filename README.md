@@ -87,3 +87,9 @@ $$Score = \max(0, 100 \times R^2)$$
 
 
   ![Alt Text](https://github.com/rijaldevanuj/Traffic-Demand-Prediction/blob/main/Screenshot%202026-06-14%20225225.png)
+
+
+  ![Alt Text](https://github.com/rijaldevanuj/Traffic-Demand-Prediction/blob/main/Screenshot%202026-06-14%20225457.png)
+
+  
+  ![Alt Text](https://github.com/rijaldevanuj/Traffic-Demand-Prediction/blob/main/Screenshot%202026-06-14%20225511.png)
