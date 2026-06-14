@@ -84,3 +84,6 @@ $$Score = \max(0, 100 \times R^2)$$
 
 * 
 **The Nuance:** While 90.25 is an incredibly strong score, this specific Random Forest variant suffered from slight data leakage—it effectively "memorized" some of the target-encoded averages from the validation split. Because this artificially inflates the public score, the slightly lower-scoring but highly regularized XGBoost model is necessary to ensure the final score doesn't crash on the unseen Private Leaderboard.
+
+
+  ![Alt Text]([path/to/your/image.png](https://github.com/rijaldevanuj/Traffic-Demand-Prediction/blob/main/Screenshot%202026-06-14%20225225.png)
